@@ -1,0 +1,11 @@
+
+<html>
+<head>
+<title>parcours academique</title>
+</head>
+<body>
+2023:obtention de BAC
+
+
+</body>
+</html>
